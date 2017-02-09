@@ -1,23 +1,40 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
 
-<div class="home">
+<head>
+    <meta charset="utf-8">
+    <title>Ulimativo on GitHub</title>
+    <link href="https://fonts.googleapis.com/css?family=Crete+Round|Oswald" rel="stylesheet">
+    <link href="css/style.css" type="text/css" rel="stylesheet" />
+</head>
 
-  <h1 class="page-heading">Posts</h1>
+<body>
+  <div class="container">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="header">
+        <h1>Ulimativo on GitHub</h1>
+    </div>
+    <p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+    </p>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <div class="round">
+    <img src="http://www.ulrichraab.info/local/media/uli.gif" />
+    </div>
+
+    <div class="box">
+        <p>
+            Hi, my name is Uli and this is my GitHub page.
+            <p>
+            </p>
+            <p>I'm quite new to Web Design, so please bear with me.
+            </p>
+
+    </div>
 
 </div>
+
+
+</body>
+
+</html>
