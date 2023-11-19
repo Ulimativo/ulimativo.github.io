@@ -1,0 +1,6 @@
+baseURL = 'https://ulimativo.github.io/'
+languageCode = 'en-us'
+title = 'Ulimativo@Gihub.io'
+theme= 'PaperMod'
+paginate = 10
+publishDir = "docs"
