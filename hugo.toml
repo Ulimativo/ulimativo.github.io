@@ -4,3 +4,12 @@ title = 'Ulimativo@Gihub.io'
 theme= 'PaperMod'
 paginate = 10
 publishDir = "docs"
+
+[params]
+title= 'Ulimativos Github Page'
+defaultTheme = "dark"
+ShowReadingTime = true
+
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
