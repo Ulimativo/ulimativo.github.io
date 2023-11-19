@@ -1,7 +1,7 @@
 +++
 title = 'Local Setup'
 date = 2023-11-19T18:57:00+01:00
-draft = true
+draft = false
 tags = ["github", "localdev"]
 description = "How to set the website up as this very Github page."
 ShowWordCount = true
