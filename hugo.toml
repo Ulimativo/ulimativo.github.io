@@ -1,9 +1,12 @@
 baseURL = 'https://ulimativo.github.io/'
 languageCode = 'en-us'
 title = 'Ulimativo@Gihub.io'
+copyright = '2023 Ulimativo'
 theme= 'PaperMod'
 paginate = 10
 publishDir = "docs"
+enableEmoji = true
+timeZone = "Europe/Vienna"
 
 [params]
 title= 'Ulimativos Github Page'
@@ -11,5 +14,5 @@ defaultTheme = "dark"
 ShowReadingTime = true
 
 [params.homeInfoParams]
-Title = "Hi there wave"
-Content = "Can be Info, links, about..."
+Title = "Hi there! :wave:"
+Content = "This is my Hugo-powered Github page."
