@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ulimativo@Gihub.io</title>
-    <link>https://ulimativo.github.io/</link>
-    <description>Recent content on Ulimativo@Gihub.io</description>
+    <title>localdev on Ulimativo@Gihub.io</title>
+    <link>https://ulimativo.github.io/tags/localdev/</link>
+    <description>Recent content in localdev on Ulimativo@Gihub.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2023 Ulimativo</copyright>
-    <lastBuildDate>Sun, 19 Nov 2023 18:57:00 +0100</lastBuildDate><atom:link href="https://ulimativo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 18:57:00 +0100</lastBuildDate><atom:link href="https://ulimativo.github.io/tags/localdev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Local Setup</title>
       <link>https://ulimativo.github.io/posts/from-local-to-github/</link>
@@ -15,15 +15,6 @@
       
       <guid>https://ulimativo.github.io/posts/from-local-to-github/</guid>
       <description>How to set the website up as this very Github page.</description>
-    </item>
-    
-    <item>
-      <title>Online with Hugo</title>
-      <link>https://ulimativo.github.io/posts/first-post/</link>
-      <pubDate>Sun, 19 Nov 2023 17:43:49 +0100</pubDate>
-      
-      <guid>https://ulimativo.github.io/posts/first-post/</guid>
-      <description>My very first Hugo post.</description>
     </item>
     
   </channel>

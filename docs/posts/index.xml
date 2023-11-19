@@ -6,9 +6,19 @@
     <description>Recent content in Posts on Ulimativo@Gihub.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 17:43:49 +0100</lastBuildDate><atom:link href="https://ulimativo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2023 Ulimativo</copyright>
+    <lastBuildDate>Sun, 19 Nov 2023 18:57:00 +0100</lastBuildDate><atom:link href="https://ulimativo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Local Setup</title>
+      <link>https://ulimativo.github.io/posts/from-local-to-github/</link>
+      <pubDate>Sun, 19 Nov 2023 18:57:00 +0100</pubDate>
+      
+      <guid>https://ulimativo.github.io/posts/from-local-to-github/</guid>
+      <description>How to set the website up as this very Github page.</description>
+    </item>
+    
+    <item>
+      <title>Online with Hugo</title>
       <link>https://ulimativo.github.io/posts/first-post/</link>
       <pubDate>Sun, 19 Nov 2023 17:43:49 +0100</pubDate>
       
