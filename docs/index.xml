@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2023 Ulimativo</copyright>
-    <lastBuildDate>Sun, 19 Nov 2023 18:57:00 +0100</lastBuildDate><atom:link href="https://ulimativo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 20:55:40 +0100</lastBuildDate><atom:link href="https://ulimativo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homebridge</title>
+      <link>https://ulimativo.github.io/posts/homebridge/</link>
+      <pubDate>Wed, 22 Nov 2023 20:55:40 +0100</pubDate>
+      
+      <guid>https://ulimativo.github.io/posts/homebridge/</guid>
+      <description>Homebridge in my Smarthome I recently tried Homebridge, a self-hosted app that can act as a Bridge between devices that are not Apple Homekit ready and Apple Homekit.
+So far I successfully tried it with different WIZ Lights, a Philipps Somneo Sleep &amp;amp; Wake-Up Light, a Dyson fan as well as some Govee sensors.</description>
+    </item>
+    
     <item>
       <title>Local Setup</title>
       <link>https://ulimativo.github.io/posts/from-local-to-github/</link>
